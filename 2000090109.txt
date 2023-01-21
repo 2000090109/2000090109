@@ -1,0 +1,11 @@
+git init
+git clone
+cd filename
+notepad filename.txt
+ls
+cat filename.txt
+ls
+git add
+git status
+git commit -m "v1"
+git push
